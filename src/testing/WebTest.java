@@ -16,5 +16,11 @@ public class WebTest {
 	{
 		System.out.println("githubWebUITest");
 	}
+	
+	@Test
+	public void githubAppUITest()
+	{
+		System.out.println("githubAppUITest");
+	}
 
 }
