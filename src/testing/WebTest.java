@@ -8,6 +8,7 @@ public class WebTest {
 	public void GoogleWebUITest()
 	{
 		System.out.println("GoogleWebUITest");
+		System.out.println("AmazonWebUITest");
 	}
 	
 	@Test

@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-09T17:48:47 IST" name="Default suite" finished-at="2023-07-09T17:48:47 IST" duration-ms="51">
+  <suite started-at="2023-07-09T18:16:00 IST" name="Default suite" finished-at="2023-07-09T18:16:00 IST" duration-ms="95">
     <groups>
     </groups>
-    <test started-at="2023-07-09T17:48:47 IST" name="Default test" finished-at="2023-07-09T17:48:47 IST" duration-ms="51">
+    <test started-at="2023-07-09T18:16:00 IST" name="Default test" finished-at="2023-07-09T18:16:00 IST" duration-ms="95">
       <class name="testing.RESTAPITest">
-        <test-method signature="deleteTwitter()[pri:0, instance:testing.RESTAPITest@12e61fe6]" started-at="2023-07-09T17:48:47 IST" name="deleteTwitter" finished-at="2023-07-09T17:48:47 IST" duration-ms="8" status="PASS">
+        <test-method signature="deleteTwitter()[pri:0, instance:testing.RESTAPITest@6b26e945]" started-at="2023-07-09T18:16:00 IST" name="deleteTwitter" finished-at="2023-07-09T18:16:00 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteTwitter -->
-        <test-method signature="postJira()[pri:0, instance:testing.RESTAPITest@12e61fe6]" started-at="2023-07-09T17:48:47 IST" name="postJira" finished-at="2023-07-09T17:48:47 IST" duration-ms="1" status="PASS">
+        <test-method signature="postJira()[pri:0, instance:testing.RESTAPITest@6b26e945]" started-at="2023-07-09T18:16:00 IST" name="postJira" finished-at="2023-07-09T18:16:00 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postJira -->
